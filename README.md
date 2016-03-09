@@ -10,7 +10,7 @@ Usage
 ###Install
 
 ~~~
-go get github.com/gansidui/gotcp
+go get github.com/lchjczw/gotcp
 ~~~
 
 
